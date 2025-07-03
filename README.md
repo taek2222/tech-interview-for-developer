@@ -90,7 +90,7 @@
     - [객체 지향 프로그래밍(Object-Oriented Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Object-Oriented%20Programming.md)
     - [함수형 프로그래밍(Fuctional Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Fuctional%20Programming.md)
     - [데브옵스(DevOps)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
-    - [서드 파티(3rd party)란?](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
+    - [서드 파티(3rd party)란? ✅](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
     - [마이크로서비스 아키텍처(MSA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98(MSA).md)
 
 <br>
