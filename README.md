@@ -64,7 +64,7 @@
 
 - ### Operating System
 
-    - [운영체제란](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Operation%20System.md)
+    - [운영체제란 ✅](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Operation%20System.md)
     - [프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20vs%20Thread.md)
     - [프로세스 주소 공간](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20Address%20Space.md)
     - [인터럽트(Interrupt)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Interrupt.md)
@@ -191,7 +191,7 @@
 
 - [Authentication and Authorization](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EC%9D%B8%EC%A6%9D%EB%B0%A9%EC%8B%9D.md)
 
-- [로그 레벨](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Logging%20Level.md)
+- [로그 레벨 ✅](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Logging%20Level.md)
 
 - [UI와 UX](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/UI%EC%99%80%20UX.md)
 
